@@ -5,9 +5,9 @@ SCSS-utils 提供一些加速開發時需要的 SCSS 檔案。
 目前提供的檔案有：
 
 ## function.scss
-- rem(targetFontPx,[rootFontSize])
+- rem(targetFontPx,[rootFontSize])：自動轉換 px 至 rem。
 
-自動轉換 px 至 rem。（製作 WEB mobile 版時，搭配 responseTextSize.scss 可實現 AWD 版面。）
+搭配 responseTextSize.scss 實現 AWD 版面，範例：
 ```scss
 button {
   width: rem(72px);
