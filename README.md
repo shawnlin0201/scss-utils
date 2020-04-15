@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="Vue logo">
+  <img width="150" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="scss">
 </p>
 
 <h1 align="center">scss-utils</h1>
